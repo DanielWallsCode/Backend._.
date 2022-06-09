@@ -1,0 +1,1 @@
+[{"nombre":"producto1","precio":"400","id":1},{"nombre":"producto2","precio":"500","id":2},{"nombre":"producto3","precio":"600","id":3},{"nombre":"producto4","precio":"560","id":4},{"nombre":"producto5","precio":"310","id":5},{"nombre":"producto6","precio":"75","id":6}]
